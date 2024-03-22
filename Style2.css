@@ -1,0 +1,11 @@
+.container{
+    background-color: aqua;
+    box-sizing: content-box;
+
+}
+.card{
+    background-color: blueviolet;
+    margin: 
+    border-radius: 20px;
+    display: block;
+}
